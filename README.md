@@ -3,7 +3,7 @@ A simple crud buit with laravel
 
 before run this project:
 
-open .evn file and change:
+open .evn.example and change name for .env file and change:
 
 ```
 DB_CONNECTION=mysql
