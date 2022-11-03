@@ -20,8 +20,10 @@ open you bash on your project path and run:
 php artisan migrate
 ```
 
-e the run:
+run project:
 
 ```
 php artisan serve
 ```
+
+open the link on your bash
